@@ -13,7 +13,10 @@
     }
   },
   "workspace": {
-    "scripts": {}
+    "scripts": {},
+    "qmodIncludeDirs": [],
+    "qmodIncludeFiles": [],
+    "qmodOutput": null
   },
   "dependencies": [
     {
